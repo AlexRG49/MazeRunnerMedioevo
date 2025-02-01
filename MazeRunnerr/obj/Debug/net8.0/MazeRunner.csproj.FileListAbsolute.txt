@@ -1,0 +1,17 @@
+C:\A\S\MazeRunner\obj\Debug\net8.0\MazeRunner.GeneratedMSBuildEditorConfig.editorconfig
+C:\A\S\MazeRunner\obj\Debug\net8.0\MazeRunner.AssemblyInfoInputs.cache
+C:\A\S\MazeRunner\obj\Debug\net8.0\MazeRunner.AssemblyInfo.cs
+C:\A\S\MazeRunner\obj\Debug\net8.0\MazeRunner.csproj.CoreCompileInputs.cache
+C:\A\S\MazeRunner\bin\Debug\net8.0\MazeRunner.exe
+C:\A\S\MazeRunner\bin\Debug\net8.0\MazeRunner.deps.json
+C:\A\S\MazeRunner\bin\Debug\net8.0\MazeRunner.runtimeconfig.json
+C:\A\S\MazeRunner\bin\Debug\net8.0\MazeRunner.dll
+C:\A\S\MazeRunner\bin\Debug\net8.0\MazeRunner.pdb
+C:\A\S\MazeRunner\bin\Debug\net8.0\Spectre.Console.dll
+C:\A\S\MazeRunner\obj\Debug\net8.0\MazeRunner.csproj.AssemblyReference.cache
+C:\A\S\MazeRunner\obj\Debug\net8.0\MazeRunner.csproj.Up2Date
+C:\A\S\MazeRunner\obj\Debug\net8.0\MazeRunner.dll
+C:\A\S\MazeRunner\obj\Debug\net8.0\refint\MazeRunner.dll
+C:\A\S\MazeRunner\obj\Debug\net8.0\MazeRunner.pdb
+C:\A\S\MazeRunner\obj\Debug\net8.0\MazeRunner.genruntimeconfig.cache
+C:\A\S\MazeRunner\obj\Debug\net8.0\ref\MazeRunner.dll
